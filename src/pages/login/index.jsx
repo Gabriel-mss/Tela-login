@@ -10,7 +10,7 @@ export const Login = () => {
   return (
     <LayoutComponents>
       <form className="login-form">
-        <span className="login-form-title">Bem Vindo!</span>
+        <span className="login-form-title">Modificação</span>
 
         <span className="login-form-title">
           <img src={logoIMG} alt="logo" />
